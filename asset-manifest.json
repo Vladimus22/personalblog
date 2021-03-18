@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personalblog/static/css/main.bf06f352.chunk.css",
+    "main.js": "/personalblog/static/js/main.6b5d46d4.chunk.js",
+    "main.js.map": "/personalblog/static/js/main.6b5d46d4.chunk.js.map",
+    "runtime-main.js": "/personalblog/static/js/runtime-main.e5250d0b.js",
+    "runtime-main.js.map": "/personalblog/static/js/runtime-main.e5250d0b.js.map",
+    "static/js/2.988e3008.chunk.js": "/personalblog/static/js/2.988e3008.chunk.js",
+    "static/js/2.988e3008.chunk.js.map": "/personalblog/static/js/2.988e3008.chunk.js.map",
+    "static/js/3.9a171b3a.chunk.js": "/personalblog/static/js/3.9a171b3a.chunk.js",
+    "static/js/3.9a171b3a.chunk.js.map": "/personalblog/static/js/3.9a171b3a.chunk.js.map",
+    "index.html": "/personalblog/index.html",
+    "static/css/main.bf06f352.chunk.css.map": "/personalblog/static/css/main.bf06f352.chunk.css.map",
+    "static/js/2.988e3008.chunk.js.LICENSE.txt": "/personalblog/static/js/2.988e3008.chunk.js.LICENSE.txt",
+    "static/media/avatar_2.7bc79a99.svg": "/personalblog/static/media/avatar_2.7bc79a99.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5250d0b.js",
+    "static/js/2.988e3008.chunk.js",
+    "static/css/main.bf06f352.chunk.css",
+    "static/js/main.6b5d46d4.chunk.js"
+  ]
+}
